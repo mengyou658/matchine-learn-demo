@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_slp-475"
+all_model_checkpoint_paths: "mnist_slp-375"
+all_model_checkpoint_paths: "mnist_slp-400"
+all_model_checkpoint_paths: "mnist_slp-425"
+all_model_checkpoint_paths: "mnist_slp-450"
+all_model_checkpoint_paths: "mnist_slp-475"
